@@ -4,7 +4,7 @@
 **annazorina/annazorina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![craiyon_203423_A_woman_software_engineer_conducting_test_on_the_screen_and_find_a_critical_bug_](https://github.com/annazorina/annazorina/assets/57866564/7d040794-ce2c-4e14-a794-3ae0d7de4cd0)
+![craiyon_203423_A_woman_software_engineer_conducting_test_on_the_screen_and_find_a_critical_bug_](https://github.com/annazorina/annazorina/assets/57866564/9aa3af65-8615-47e3-b0be-09d39179a10c)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
