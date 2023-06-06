@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+```python
+def about_myself():
+  code = ['Pyhon', 'JavaScript', 'HTML', 'XML', 'SQL', 'ISBL','CSS', 'XPath']
+  tools = ['PyCharm', 'GitHub', 'Visual_Studio', 'Selenium', 'Jira', 'Webstorm', 'Slack' 'Postman' 'and much more']
+  skills = ['Manual_Testing', 'Test_Cases', 'Team_Work', 'QA_Automation']
+  res = "Software QA Automation Engineer"
+  return res 
+
+print(about_myself())
+```
+
+
+
+
 
 **annazorina/annazorina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
