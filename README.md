@@ -1,25 +1,17 @@
 ## Hello, hello 👋! My name is Anna. 
   ### I`m happy to see you here.   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+world)](https://git.io/typing-svg) <img align="right" width="350" height="350" src=" craiyon_203423_A_woman_software_engineer_conducting_test_on_the_screen_and_find_a_critical_bug_.png" >                                                                                                                       <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
 </br>
-
-
-
-
-
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
 
 
 
