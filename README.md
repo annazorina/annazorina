@@ -1,4 +1,7 @@
-### Hello, hello 👋. My name is Anna. I`m happy to see you here. Welcome to my world :wink:
+### Hello, hello 👋! 
+    ###My name is Anna. 
+       ###I`m happy to see you here. 
+          ###Welcome to my world :wink:
 
 ```JavaScript
 const about_myself= {
