@@ -2,7 +2,7 @@
   ### I`m happy to see you here.   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+world)](https://git.io/typing-svg)
    :wink:
-   <img src=" https://drive.google.com/file/d/1CoDKv1xC6zXitblA0MQpAidOdYJm1v4x/view?usp=sharing" width="200" height="100">                                                                                                                                                                              
+   <img src=" craiyon_203423_A_woman_software_engineer_conducting_test_on_the_screen_and_find_a_critical_bug_.png" width="200" height="100">                                                                                                                                                                              
 
 ```JavaScript
 const about_myself= {
