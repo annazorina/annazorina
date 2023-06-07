@@ -7,7 +7,8 @@
 </b>
 <b>
 </b>
-If you :sparkling_heart: it please :star:                                                                                                                       
+<b>
+</b>If you :sparkling_heart: it please :star:                                                                                                                       
 ```JavaScript
 const about_myself= {
 Name: "Anna",
