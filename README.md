@@ -1,27 +1,8 @@
 ## Hello, hello 👋! My name is Anna. 
   ### I`m happy to see you here.   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+world+!)](https://git.io/typing-svg) <img align="center" width="350" height="350" src=" craiyon_203423_A_woman_software_engineer_conducting_test_on_the_screen_and_find_a_critical_bug_.png" >
-<b>
-</b>
-<b>
-</b>
-<b>
-</b>
-<b>
-</b>
-<b>
-</b>
-<b>
-</b>
-<b>
-</b>
-<b>
-</b>
-<b>
-</b>
-<b>
-</b>
-If you :sparkling_heart: it please :star:                                                                                                                       
+
+                                                                                                                    
 ```JavaScript
 const about_myself= {
 Name: "Anna",
@@ -33,7 +14,7 @@ ILike: ["Coding",
  Challenge: "Not a day without line of code"
  }
 ```
-
+If you :sparkling_heart: it please :star:   
 ```python
 def about_myskills():
   code = ['Pyhon', 'JavaScript', 'HTML', 'XML', 'SQL', 'ISBL','CSS', 'XPath']
