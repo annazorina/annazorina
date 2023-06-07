@@ -1,7 +1,19 @@
 ### Hi there 👋
 
+```JavaScript
+const about_myself= {
+Name: "Anna",
+Place: "Philadelphia, PA",
+ILike: ["Coding",
+        "Reporting",
+        "Updating",
+        "Debuging"],
+ Challenge: "Not a day without line of code"
+ }
+
+
 ```python
-def about_myself():
+def about_myskills():
   code = ['Pyhon', 'JavaScript', 'HTML', 'XML', 'SQL', 'ISBL','CSS', 'XPath']
   tools = ['PyCharm', 'GitHub', 'Visual_Studio', 'Selenium', 'Jira', 'Webstorm', 'Slack' 'Postman' 'and much more']
   skills = ['Manual_Testing', 'Test_Cases', 'Team_Work', 'QA_Automation']
