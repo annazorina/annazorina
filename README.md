@@ -1,6 +1,6 @@
 ## Hello, hello 👋! My name is Anna. 
   ### I`m happy to see you here.   
-   ### Welcome to my world :wink:
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome + to + my + world)]  :wink:
    <img src=" https://drive.google.com/file/d/1CoDKv1xC6zXitblA0MQpAidOdYJm1v4x/view?usp=sharing" width="200" height="100">                                                                                                                                                                              
 
 ```JavaScript
