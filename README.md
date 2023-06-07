@@ -1,5 +1,5 @@
 ### Hello, hello 👋! 
-  **_My name is Anna. 
+  **_My name is Anna._** 
        **I`m happy to see you here. 
           **_Welcome to my world :wink:
 
