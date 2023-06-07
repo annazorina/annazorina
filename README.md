@@ -4,6 +4,10 @@
         
 <img src=" craiyon_203423_A_woman_software_engineer_conducting_test_on_the_screen_and_find_a_critical_bug_.png" align="right" width="350" height="350">                                                                                                                                                                              
 
+
+
+
+
 ```JavaScript
 const about_myself= {
 Name: "Anna",
