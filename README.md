@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%b623b7&lines= Why+did+the+tester+bring+a+ladder+to+work+?+Because+they+wanted+to+take+their+testing+to+a+higher+level+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines= Why+did+the+tester+bring+a+ladder+to+work+?+Because+they+wanted+to+take+their+testing+to+a+higher+level+!)](https://git.io/typing-svg)
 
