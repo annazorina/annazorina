@@ -25,7 +25,8 @@ def about_myskills():
 
 print(about_myself())
 ```
-
+<a>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+world+!)](https://git.io/typing-svg)
+  </a>
 # :computer: My Languages
 
 
