@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 📫 How to reach me: ...
 - 😄 Pronouns: ...
-Minute of humor: Why did the tester bring a ladder to work?
-
-Because they wanted to take their testing to a higher level!
+**Minute of humor**: Why did the tester bring a ladder to work?
+                  Because they wanted to take their testing to a higher level!
 
