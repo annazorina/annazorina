@@ -25,8 +25,18 @@ def about_myskills():
 
 print(about_myself())
 ```
+  <div align="center">
+<a>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Why+did+the+tester)](https://git.io/typing-svg)
+ </a>
+    </div>
+     <div align="center">
+<a>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=bring+a+ladder+to+work+?+Because+they+wanted+to+take+their+testing+to+a+higher+level+!)](https://git.io/typing-svg)
+ </a>
+    </div>
+     <div align="center">
 <a>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Why+did+the+tester+bring+a+ladder+to+work+?+Because+they+wanted+to+take+their+testing+to+a+higher+level+!)](https://git.io/typing-svg)
-  </a>
+ </a>
+    </div>
 # :computer: My Languages
 
 
