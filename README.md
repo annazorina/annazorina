@@ -1,6 +1,6 @@
 ## Hello, hello 👋! My name is Anna. 
   ### I`m happy to see you here.   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+world+!)](https://git.io/typing-svg) <img align="center" width="350" height="350" src=" craiyon_203423_A_woman_software_engineer_conducting_test_on_the_screen_and_find_a_critical_bug_.png" >
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+world+!)](https://git.io/typing-svg) <img align="center" width="350" height="350" src=" pic/craiyon_203423_A_woman_software_engineer_conducting_test_on_the_screen_and_find_a_critical_bug_.png" >
 
                                                                                                                     
 ```JavaScript
@@ -26,17 +26,9 @@ def about_myskills():
 print(about_myself())
 ```
   <div align="center">
-<a>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Why+did+the+tester)](https://git.io/typing-svg)
- </a>
-    </div>
-     <div align="center">
-<a>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=bring+a+ladder+to+work+?+Because+they+wanted+to+take+their+testing+to+a+higher+level+!)](https://git.io/typing-svg)
- </a>
-    </div>
-     <div align="center">
-<a>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Why+did+the+tester+bring+a+ladder+to+work+?+Because+they+wanted+to+take+their+testing+to+a+higher+level+!)](https://git.io/typing-svg)
- </a>
-    </div>
+  <img src="https://media.tenor.com/3-v67kKuolwAAAAM/tester.gif" style="width:206px">  <img src="https://www.cryan.com/qa/graphics/QARiver.gif](http://cartoontester.blogspot.com/2011/03/how-to-spot-tester-cloud-spotting.html)" style="width:250px">  <img src="https://miro.medium.com/max/1000/1*hyqJzpqML8_OsEir6KCahw.gif" style="width:188px">  
+  </div>
+    
 # :computer: My Languages
 
 
