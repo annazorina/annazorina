@@ -28,7 +28,8 @@ print(about_myself())
 
 If you :sparkling_heart: it please :star:  
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="45" height="35">
-<a href="https://www.linkedin.com/in/anna-e-zorina/" target="blank" >
+<a href="https://www.linkedin.com/in/anna-e-zorina/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
  <div align="center">
 <h2>Tools and languages </h2>
   </div>
